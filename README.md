@@ -4,6 +4,7 @@ You can automate the pentest stages.
 ### Usage
 
 Open the tools.txt file and write the process you want to apply line by line.
+
 Each row represents a different stage.
 
 ![AutoStrie](autostrike1.png)
