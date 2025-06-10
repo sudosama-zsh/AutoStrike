@@ -17,5 +17,7 @@ python3 autostrike.py
 ![AutoStrie](autostrike2.png)
 
 The entire process is instantly written to the output.txt file.
+
 I designed it so that you can work even while you sleep.
+
 Do not run more than 10 processes at the same time.
